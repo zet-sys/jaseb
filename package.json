@@ -1,0 +1,14 @@
+{
+  "name": "SC YUKI - MD",
+  "version": "1.0.0",
+  "description": "Credit By @Zetzygg",
+  "main": "Zetzyjaseb.js",
+  "scripts": {
+    "start": "node Zetzyjaseb.js"
+  },
+  "author": "Zetzyy",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
